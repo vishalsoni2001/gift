@@ -122,7 +122,7 @@
 }
 
 
-@media(max-with: 600px)
+@media(max-width: 600px)
 {
     .formsection{
         min-width:280px;
